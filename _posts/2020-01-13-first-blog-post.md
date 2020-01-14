@@ -1,5 +1,5 @@
 ---
-title: "MY-FIRST-BLOG-POST"
+title: "My First Blog Post on Pages"
 date: 2020-01-13
 ---
 
