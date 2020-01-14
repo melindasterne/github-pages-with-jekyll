@@ -1,4 +1,3 @@
-# Welcome to my test github pages blog
 
-I'm glad you are here. I plan to talk about learning how to use github pages to make free static sites for people! 
+I'm glad you are here. I'm testing this in the github learing lab tutorial to help me learn how to use github pages to make free static sites! 
 Weeeeeeee!
